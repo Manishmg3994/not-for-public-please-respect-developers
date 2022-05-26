@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061881433506",
+    "firebase_url": "https://newsappready-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "newsappready",
+    "storage_bucket": "newsappready.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061881433506:android:cd64d5b8a71c5489c5b6fb",
+        "android_client_info": {
+          "package_name": "mrblab.news_app.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061881433506-ue0ufssmn59ao48pr8t43cv611teb19p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWdl3WV4U_8i3K9MNE0peA4zY_ZTtPubQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061881433506-ue0ufssmn59ao48pr8t43cv611teb19p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
